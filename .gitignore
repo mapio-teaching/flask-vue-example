@@ -1,0 +1,5 @@
+__pycache__/
+.envrc
+backend/instance/
+frontend/dist/
+node_modules/
